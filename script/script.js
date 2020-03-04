@@ -16,7 +16,7 @@ var crs = new L.Proj.CRS(
       tms: true,
       maxZoom: 10,
       continuousWorld: true,
-      attribution: '<a href="http://www.linz.govt.nz">See Full Citations Here</a>', //Simple attribution for linz
+      attribution: '<a href="https://github.com/xycarto/antarctica">See Full Citations Here</a>', //Simple attribution for linz
   };
   
   //set map and projection

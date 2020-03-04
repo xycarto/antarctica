@@ -14,7 +14,7 @@ The derived coastline is based on work done from the polygonization of the REMA 
 
 The sea mask derived for this map is a subtraction of the derived coastline from a full extent of the region.  This process involves a combination of GRASS GIS v.overlay and st_subdivide.
 
-Please pass along comments for visual corrections to ireese at linz.govt.nz.  We cannot improve the map without your feedback.
+Please pass along comments for visual corrections to xycarto.com. I cannot improve the map without your feedback.
 
 Acknowledgemets for REMA DEM
 
@@ -25,6 +25,8 @@ Acknowledgemets for REMA DEM
 - DEMs provided by the Byrd Polar and Climate Research Center and the Polar Geospatial Center under NSF-OPP awards 1543501, 1810976, 1542736, 1559691, 1043681, 1541332, 0753663, 1548562, 1238993 and NASA award NNX10AN61G. Computer time provided through a Blue Waters Innovation Initiative. DEMs produced using data from DigitalGlobe, Inc.
 
 Citations
+
+Contains data sourced from the LINZ Data Service licensed for reuse under CC BY 4.0
 
 REMA 8m DEM: (Howat, I. M., Porter, C., Smith, B. E., Noh, M.-J., and Morin, P.: The Reference Elevation Model of Antarctica, The Cryosphere, 13, 665-674, https://doi.org/10.5194/tc-13-665-2019, 2019.)
 
