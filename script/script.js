@@ -8,9 +8,7 @@ var crs = new L.Proj.CRS(
     }
   );
   
-  //set basemap url
-  //var antarctica_urlTemplate = 'https://tiles.maps.linz.io///antarctic_basemap/ANT_ROSS_SEA_REGION/{z}/{x}/{y}.png'
-  
+  //set basemap url  
   var antarctica_urlTemplate = 'https://xycarto-base-maps.s3-ap-southeast-2.amazonaws.com/antarctica-rsrgd/tile-cache/20200303/antarctica-rsrgd/{z}/{x}/{y}.png'
   
   //set additonal perimeters
@@ -18,7 +16,7 @@ var crs = new L.Proj.CRS(
       tms: true,
       maxZoom: 10,
       continuousWorld: true,
-      attribution: '<a href="http://www.linz.govt.nz">Sourced from LINZ. CC-BY 4.0</a>', //Simple attribution for linz
+      attribution: '<a href="http://www.linz.govt.nz">See Full Citations Here</a>', //Simple attribution for linz
   };
   
   //set map and projection
