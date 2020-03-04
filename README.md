@@ -1,8 +1,8 @@
-##Repository for Antarctica Base Map Website
+## Repository for Antarctica Base Map Website
 
-###Citations and Supporting Information
+### Citations and Supporting Information
 
-####Antarctica Ross Sea Region Geodetic Datum Projection Base Map
+#### Antarctica Ross Sea Region Geodetic Datum Projection Base Map
 
 Antarctica RSRGD (EPSG:5482).  This model is not intended for navigation and is for visual purposes only.  The Antarctica RSRGD map consists of a combination of derived and imported data. River and lake layers may be accessed via the LINZ Data Service (LDS): https://data.linz.govt.nz/. Coastline,contour, and hillshade layers are derived from the National Science Foundations' Reference Elevation Model of Antarctica (REMA) 8m DEM (see below for citation). Additional elevation and hillshade models include Antarctic 1 km Digital Elevation Model (DEM) from Combined ERS-1 Radar and ICESat Laser Satellite Altimetry, Version 1 (krigged), ETOPO1 (2km / 1 arc-minute), and RAMP2 (200m). 
 
